@@ -1,8 +1,9 @@
-h1 {
+.header {
     font-size: 80px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#f9efed;
 }
 
 body {
-    background-image: linear-gradient(to right, red, blue)
+    background-color:#669bbc
 }
