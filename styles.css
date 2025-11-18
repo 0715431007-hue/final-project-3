@@ -1,9 +1,32 @@
+@import url(https://fonts.google.com/specimen/Limelight?categoryFilters=Appearance:%2FTheme%2FTechno);
+
+* {
+    margin-top:10px;
+    margin-left:5px;
+    margin-bottom:20px;
+}
+
 .header {
-    font-size: 80px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:#f9efed;
+    font-size: 60px;
+    color:#F9EFED
 }
 
 body {
-    background-color:#669bbc
+    background-color:#003049;
+}
+
+.main {
+    background-color: #C1121F;
+    color:#F9EFED;
+}
+
+.side {
+    color:#F9EFED;
+    background-color: #760000;
+    justify-content: flex-end;
+}
+
+.bottom-right {
+    color: #F9EFED;
+    background-color: #669BBC;
 }
