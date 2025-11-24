@@ -1,7 +1,7 @@
-@import url(https://fonts.google.com/specimen/Limelight?categoryFilters=Appearance:%2FTheme%2FTechno);
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Silkscreen:wght@400;700&display=swap');
 
 * {
-    margin-top:10px;
+    margin-top:5px;
     margin-left:5px;
     margin-bottom:20px;
 }
@@ -23,10 +23,19 @@ body {
 .side {
     color:#F9EFED;
     background-color: #760000;
-    justify-content: flex-end;
+    margin-left: 700px;
+    margin-top: -175px;
+    padding: 6px;
+    border-bottom-left-radius: 50px;
+    margin-right: -15px;
+    text-align: center;
 }
 
 .bottom-right {
     color: #F9EFED;
     background-color: #669BBC;
+}
+
+hr {
+    
 }
