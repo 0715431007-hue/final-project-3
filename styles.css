@@ -18,6 +18,7 @@ body {
 .main {
     background-color: #C1121F;
     color:#F9EFED;
+    padding: 5px;
 }
 
 .side {
@@ -34,8 +35,4 @@ body {
 .bottom-right {
     color: #F9EFED;
     background-color: #669BBC;
-}
-
-hr {
-    
 }
