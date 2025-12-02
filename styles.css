@@ -7,7 +7,7 @@
 }
 
 .header {
-    font-size: 60px;
+    font-size: 70px;
     color:#F9EFED
 }
 
@@ -19,6 +19,9 @@ body {
     background-color: #C1121F;
     color:#F9EFED;
     padding: 5px;
+    margin-right: 1300px;
+    border-radius: 20px;
+    margin-top: -75px;
 }
 
 .side {
@@ -35,4 +38,14 @@ body {
 .bottom-right {
     color: #F9EFED;
     background-color: #669BBC;
+}
+
+.Undertale {
+    height: 200px;
+    padding-top: 10px;
+}
+
+.Deltarune {
+    height: 200px;
+    padding-top: 10px;
 }
