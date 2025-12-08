@@ -41,3 +41,12 @@ body {
     background-color: #669BBC;
 }
 
+.img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#Undertale-img {
+    margin-left: 60px;
+}
