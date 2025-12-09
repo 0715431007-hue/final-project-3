@@ -1,14 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Limelight&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Silkscreen:wght@400;700&display=swap');
 
 * {
-    margin-top:5px;
-    margin-left:5px;
-    margin-bottom:20px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 20px;
 }
 
 .header {
     font-size: 70px;
-    color:#F9EFED
+    color:#F9EFED;
+    width: 70%;
 }
 
 body {
@@ -22,31 +23,32 @@ body {
     padding: 5px;
     margin-right: 1300px;
     border-radius: 20px;
-    margin-top: -75px;
+    width: 30%;
+    min-width: 400px;
 }
 
 .side {
     color:#F9EFED;
     background-color: #760000;
-    margin-left: 700px;
-    margin-top: -175px;
+    position: absolute;
+    left: 700px;
+    top: 0px;
     padding: 6px;
     border-bottom-left-radius: 50px;
-    margin-right: -15px;
-    text-align: center;
+    min-width: 250px;
+    max-height: 75vh;
 }
 
 .bottom-right {
     color: #F9EFED;
     background-color: #669BBC;
+    border-radius: 10px;
+    position: absolute;
+    min-width: 500px;
+    padding-left: 20px;
+    padding-top: 20px;
 }
 
-.img {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-#Undertale-img {
-    margin-left: 60px;
+.character {
+    background-color:#669BBC
 }
