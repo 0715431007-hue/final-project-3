@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Silkscreen:wght@400;700&display=swap');
+
+body {
+    background-color: #1B1610;
+    color: #F9EFED;
+    font-family: "Silkscreen";
+}
+
+a {
+    color:#F9EFED
+}
+
+.bio {
+    background-color: #760000;
+    position: absolute;
+    right: 1300px;
+}
+
+.storyline {
+    background-color: #C1121F;
+    position: absolute;
+    top: 220px;
+    right: 1300px;
+}
+
+.header {
+    position: absolute;
+    left: 45%;
+    font-size: 20px;
+}

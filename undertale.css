@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Silkscreen:wght@400;700&display=swap');
+
+body {
+    background-color: #760000;
+    color: #F9EFED;
+    font-family: "Silkscreen";
+}
+
+.bio {
+    background-color: #C1121F;
+    padding-left: 5px;
+    position: absolute;
+    left: 5px;
+    right: 1300px;
+    border-bottom-right-radius: 20px;
+    margin-top: -6px;
+    margin-left: -5px;
+}
+
+.music {
+    background-color: #669BBC;
+    position: absolute;
+    right: 1300px;
+    top: 200px;
+    left: 0px;
+    padding-left: 5px;
+    border-radius: 10px;
+}
+
+.music a {
+    position: absolute;
+    left: 50px;
+}
+
+.header {
+    position: absolute;
+    left: 45%;
+    background-color: #003049;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+a {
+    position: absolute;
+    left: 750px;
+    color: #F9EFED;
+}
+
+.storyline {
+    background-color: #669BBC;
+    position: absolute;
+    left: 70%;
+    border-radius: 10px;
+    padding-left: 20px;
+}
